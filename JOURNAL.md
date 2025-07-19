@@ -1,3 +1,4 @@
+---
 title: "RubberESP32-S3"
 author: "Aviyan Panday"
 description: "A custom devboard based on the ESP32-S3 to be used as a rubber ducky!"
