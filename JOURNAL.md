@@ -1,4 +1,3 @@
-<img width="866" height="861" alt="image" src="https://github.com/user-attachments/assets/0505dcc0-fb47-4acc-9ca2-db93ddaf2d4c" />---
 title: "RubberESP32-S3"
 author: "Aviyan Panday"
 description: "A custom devboard based on the ESP32-S3 to be used as a rubber ducky!"
