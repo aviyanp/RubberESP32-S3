@@ -3,6 +3,12 @@ A Rubber Ducky Devboard built around an ESP32-S3-WROOM-1U Module. I built this b
 
 ---
 
+## Images
+![PCB](https://i.ibb.co/20d9pXVy/Screenshot-2025-07-19-at-9-59-24-AM.png)
+![Schematic](https://i.ibb.co/VWwzHV19/Screenshot-2025-07-19-at-9-57-54-AM.png)
+
+---
+
 | Comment               | Designator                | Footprint                       | LCSC     | Quantity | Price (Based on MOQ) | Notes                                                                                                                   |
 |-----------------------|---------------------------|---------------------------------|----------|----------|----------------------|-------------------------------------------------------------------------------------------------------------------------|
 | 5.1K                  | R12,R13                   | R0603                           | C14677   | 4        | $0.12                |                                                                                                                         |
