@@ -18,7 +18,7 @@ A Rubber Ducky Devboard built around an ESP32-S3-WROOM-1U Module. I built this b
 | TF PUSH               | Card1                     | TF-SMD_TF-PUSH                  | C393941  | 2        | $0.55                |                                                                                                                         |
 | SW_SPST               | SW1,SW2                   | SW-SMD_L3.9-W3.0-P4.45          | C455280  | 4        | $0.46                |                                                                                                                         |
 | 10uF                  | C5                        | CAP-SMD_BD6.3-L6.6-W6.6-FD      | C72482   | 2        | $0.45                |                                                                                                                         |
-| Conn_01x02            | J2                        | PinHeader_1x02_P2.54mm_Vertical |          | 1        | $7                   | Price includes other headers                                                                                            |
+| Conn_01x02            | J2                        | PinHeader_1x02_P2.54mm_Vertical |          | 1        | $5.49                | Price includes other headers                                                                                            |
 | Conn_01x02            | J1                        | PinHeader_1x02_P2.54mm_Vertical |          | 1        |                      |                                                                                                                         |
 | Conn_01x08            | J3                        | PinHeader_1x08_P2.54mm_Vertical |          | 1        |                      |                                                                                                                         |
 | Solder Paste          |                           |                                 |          | 1        | $16.95               |                                                                                                                         |
@@ -27,4 +27,4 @@ A Rubber Ducky Devboard built around an ESP32-S3-WROOM-1U Module. I built this b
 | Stencil               |                           |                                 |          | 1        | $7                   |                                                                                                                         |
 | Hotplate              |                           |                                 |          | 1        | $15                  |                                                                                                                         |
 
-## Total Cost: $71.31 (excluding shipping)
+## Total Cost: $69.80 (excluding shipping)
