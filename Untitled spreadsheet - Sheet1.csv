@@ -1,0 +1,22 @@
+Comment,Designator,Footprint,LCSC,Quantity,Price (Based on MOQ),Link,Notes
+5.1K,"R12,R13",R0603,C14677,4,$0.12,https://lcsc.com/product-detail/chip-resistor-surface-mount_yageo-rc0603jr-075k1l_C14677.html,
+10K,"R10,R11,R3,R5,R6,R7,R8,R9",R0603,C15401,16,$0.09,https://lcsc.com/product-detail/chip-resistor-surface-mount_uni-royal-0603waj0103t5e_C15401.html,
+100nF,"C2,C4",C0603,C1591,4,$0.28,https://lcsc.com/product-detail/multilayer-ceramic-capacitors-mlcc-smd-smt_samsung-electro-mechanics-cl10b104kb8nnnc_C1591.html,
+1uF,C3,C0603,C1592,2,$0.17,https://lcsc.com/product-detail/multilayer-ceramic-capacitors-mlcc-smd-smt_samsung-electro-mechanics-cl10a105ko8nnnc_C1592.html,
+100R,R4,R0603,C25201,2,$0.10,https://lcsc.com/product-detail/chip-resistor-surface-mount_uni-royal-0603waj0101t5e_C25201.html,
+22uF,C6,CAP-SMD_BD6.3-L6.6-W6.6-FD,C267472,2,$0.64,https://lcsc.com/product-detail/aluminum-electrolytic-capacitors-smd_roqang-rt1j220m0607_C267472.html,
+TYPE-C 16PIN 2MD(073),USB1,USB-C-SMD_TYPE-C-6PIN-2MD-073,C2765186,2,$1.10,https://lcsc.com/product-detail/usb-connectors_shou-han-type-c-16pin-2md-073_C2765186.html,
+22uF,C1,C1210,C2918511,2,$0.40,https://lcsc.com/product-detail/multilayer-ceramic-capacitors-mlcc-smd-smt_samwha-capacitor-cs3225x7r226k250nrl_C2918511.html,
+ESP32-S3-MINI-1U,U1,ESP32-S2-MINI-1U,C2980296,3,$10.80,https://lcsc.com/product-detail/wifi-modules_espressif-esp32-s3-wroom-1u-n4_C2980296.html,I have 3 because I'd otherwise get a $3 fee and it costs around that and it's pretty easy to mess up when soldering it.
+AMS1117-3.3,U2,SOT-223-3_TabPin2,C347222,2,$0.20,https://lcsc.com/product-detail/voltage-regulators-linear-low-drop-out-ldo-regulators_umw-youtai-semiconductor-co-ltd-ams1117-3-3_C347222.html,
+TF PUSH,Card1,TF-SMD_TF-PUSH,C393941,2,$0.55,https://lcsc.com/product-detail/sd-card-memory-card-connector_shou-han-tf-push_C393941.html,
+SW_SPST,"SW1,SW2",SW-SMD_L3.9-W3.0-P4.45,C455280,4,$0.46,https://lcsc.com/product-detail/tactile-switches_xunpu-ts-1088r-02026_C455280.html,
+10uF,C5,CAP-SMD_BD6.3-L6.6-W6.6-FD,C72482,2,$0.45,https://lcsc.com/product-detail/aluminum-electrolytic-capacitors-smd_roqang-rvt2a100m0607_C72482.html,
+Conn_01x02,J2,PinHeader_1x02_P2.54mm_Vertical,,1,$5,https://www.amazon.com/HiLetgo-20pcs-2-54mm-Single-Header/dp/B07R5QDL8D?crid=25BBIUQAU1OWX&dib=eyJ2IjoiMSJ9.5uWtDvfA6LgREMjVGxUedYzvLdtmwa0lk-XXqTny2BpBLrQCzJbt183Fq3ZvrsvrRKOo1m3rR3dtiEcvz4R0f19apQUhwKhOVtrSjcfbe7ET27Sz3yeFp19aFwo5qD-H_Y3_Zt7h30EAVb9xbstagcjNDx9NvptPAlvKyS6pirDVVGAGghfnNHaA8lVX9N2d_bPePyTcjEoq2XLjLLAVFln2rqvqbxPsH-kdQilnoJs.gqjtPAfkoFambUaHOxhOe76ntizftXUChxVUISUzndw&dib_tag=se&keywords=pin+headers&qid=1752936883&sprefix=pin+header%2Caps%2C104&sr=8-5,Price includes other headers
+Conn_01x02,J1,PinHeader_1x02_P2.54mm_Vertical,,1,,,
+Conn_01x08,J3,PinHeader_1x08_P2.54mm_Vertical,,1,,,
+Solder Paste,,,,1,$16.95,https://www.chipquik.com/store/product_info.php?products_id=520005,
+Solder,,,,1,$8,https://www.amazon.com/Dia0-032in-0-11lb-Precision-Electronics-Soldering/dp/B07Q167J98?dib=eyJ2IjoiMSJ9.0WmR7WOxi6Qk8vlt_xE5f8NoKb9oNkLwoEmf5DlWWVply8QCArvaSu03lZr8ZyACRNqLUuPSVF6qW4Vn7wuizAkBTF7ROgK7aFCPadbQDt4wjarPKroLeFcCtJ43VockRv3bCADxZFK_sp2w4AhhTfc3VPCTkA7u3toRhhzFTUy5_2pffL7Zzjkw-tUOy42P0QfiNxF6dVUvvWvYNIKXaDa56evPPlBhkW6lG-br0URcpxQUOfMvmVWZ8qEzHLJZz6yridzJIgh6WYzu8ov-HQu18i_ZqrdRhr_PoPD4VtU.zBo954FZppxJyzZdX7gQTFlPNAnM61OoOWT35Rmb430&dib_tag=se&keywords=lead+free+solder&qid=1752936228&sr=8-5,
+PCB,,,,5,$2,,
+Stencil,,,,1,$7,,
+Hotplate,,,,1,$15,https://www.aliexpress.com/item/3256806325004979.html?spm=a2g0o.productlist.main.2.300a7ec0kUdmhi&algo_pvid=3c3e34b2-7ea2-4b59-b923-e55cf60f940c&algo_exp_id=3c3e34b2-7ea2-4b59-b923-e55cf60f940c-1&pdp_ext_f=%7B%22order%22%3A%221297%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%2145.95%216.30%21%21%21328.23%2145.00%21%402140e67317529354236951802e994b%2112000037477574263%21sea%21US%210%21ABX&curPageLogUid=fEpk9LyUzo7n&utparam-url=scene%3Asearch%7Cquery_from%3A#nav-specification,
