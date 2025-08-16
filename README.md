@@ -4,7 +4,7 @@ A Rubber Ducky Devboard built around an ESP32-S3-WROOM-1U Module. I built this b
 ---
 
 ## Images
-![PCB](https://hc-cdn.hel1.your-objectstorage.com/s/v3/887499e624d35628471f51dc82fafd6bee75e07a_screenshot_2025-07-31_at_10.38.35___pm.png)
+![PCB](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6be2f21d2c6c2f28101f99977b8e10ea61b6d8e0_image.png)
 ![Schematic](https://i.ibb.co/VWwzHV19/Screenshot-2025-07-19-at-9-57-54-AM.png)
 
 ---
